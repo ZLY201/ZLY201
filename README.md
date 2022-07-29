@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [js-sdsl](https://github.com/zly201/js-sdsl)
 
-- 📝 I regularly write articles on [zly201.github.io](zly201.github.io)
+- 📝 I regularly write articles on [zly201.github.io](https://zly201.github.io)
 
 - 📫 How to reach me **951711127@qq.com**
 
