@@ -3,11 +3,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zly201&show_icons=true&locale=en" alt="zly201" />
 
-- 🔭 I’m currently working on [js-sdsl](https://github.com/zly201/js-sdsl)
+- 🔭 I’m currently working on [js-sdsl](https://github.com/js-sdsl/js-sdsl)
 
 - 🌱 I’m currently learning **Design Patterns**
 
-- 👯 I’m looking to collaborate on [js-sdsl](https://github.com/zly201/js-sdsl)
+- 👯 I’m looking to collaborate on [js-sdsl](https://github.com/js-sdsl/js-sdsl)
 
 - 📝 I regularly write articles on [zly201.github.io](https://zly201.github.io)
 
