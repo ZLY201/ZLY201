@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zilong Yao</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zly201&show_icons=true&locale=en" alt="zly201" />
+<img align="right" src="https://github-readme-stats.zohan.tech/api?username=zly201&show_icons=true&locale=en" alt="zly201" />
 
 - 🔭 I’m currently working on **[js-sdsl](https://github.com/js-sdsl/js-sdsl)**
 
