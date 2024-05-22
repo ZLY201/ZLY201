@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zilong Yao</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate frontend developer from China -> <a href='https://github.com/ZLY201/ZLY201/blob/main/cv.png'>Curriculum Vitae</a></h3>
 
 <img align="right" src="https://github-readme-stats.zohan.tech/api?username=zly201&show_icons=true&locale=en" alt="zly201" />
 
-- 🔭 I’m currently working on **[js-sdsl](https://github.com/js-sdsl/js-sdsl)**
+- 🔭 I’m currently working on [**@bytedance**](https://github.com/bytedance)
 
 - 🌱 I’m currently learning **Design Patterns**
 
-- 👯 I’m looking to collaborate on **[js-sdsl](https://github.com/js-sdsl/js-sdsl)**
+- 👯 I’m looking to collaborate on **[ji-ba-app](https://github.com/ji-ba-app/ji-ba-cdn)**
 
 - 📝 I regularly write articles on **[zly201.github.io](https://zly201.github.io)**
 
