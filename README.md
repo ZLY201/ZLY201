@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zilong Yao</h1>
-<h3 align="center">A passionate frontend developer from China -> <a href='https://zly201.github.io/'>Curriculum Vitae</a></h3>
+<h3 align="center">A passionate frontend developer from China</h3>
 
 <img align="right" src="https://github-readme-stats.zohan.tech/api?username=zly201&show_icons=true&locale=en" alt="zly201" />
 
 - 🔭 I’m currently working on [**@bytedance**](https://github.com/bytedance)
+
+- 👯 I'm currently researching **micro frontend architecture**.
 
 - 🌱 I’m currently learning **Design Patterns**
 
