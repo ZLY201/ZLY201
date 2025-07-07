@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Design Patterns**
 
-- 👯 I’m looking to collaborate on **[ji-ba-app](https://github.com/ji-ba-app/ji-ba-cdn)**
-
 - 📝 I regularly write articles on **[zly201.github.io](https://zly201.github.io)**
 
 - 📫 Reach me with **zilongyao1366@gmail.com**
